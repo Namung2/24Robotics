@@ -13,15 +13,6 @@
 - **🔄 실시간 통신**: Unity-Python TCP 통신
 - **📊 인터랙티브 시각화**: 실시간 플롯 및 디버깅 도구
 
-## 🎥 데모
-
-<div align="center">
-
-| SLAM 시각화 | 파티클 필터 | 경로 계획 |
-|:--:|:--:|:--:|
-| ![SLAM Demo](docs/slam_demo.gif) | ![Localization Demo](docs/localization_demo.gif) | ![Navigation Demo](docs/navigation_demo.gif) |
-
-</div>
 
 ## 🏗️ 시스템 구조
 
