@@ -236,13 +236,6 @@ Kp = 0.2
 <details>
 <summary><b>시각화 문제</b></summary>
 
-**문제**: Matplotlib 플롯이 업데이트되지 않음
-```python
-import matplotlib.pyplot as plt
-plt.ion()  # 대화형 모드 활성화
-plt.show(block=False)
-```
-
 **문제**: Unity 디버그 라인이 보이지 않음
 - SensorSystem에서 `showDebugLines` 활성화
 - Scene 뷰 카메라 위치 확인
@@ -308,7 +301,7 @@ python test_communication.py
 
 질문이나 문제가 있으시면:
 
-- 📧 이메일: [your.email@university.edu]
+- 📧 이메일: [mungf0033@gmai.com]
 - 💬 토론: [GitHub Discussions](https://github.com/yourusername/robotics-slam-navigation/discussions)
 - 🐛 버그 신고: [GitHub Issues](https://github.com/yourusername/robotics-slam-navigation/issues)
 
