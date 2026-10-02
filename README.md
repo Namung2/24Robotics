@@ -11,7 +11,8 @@
 
 시뮬레이터는 Box–Muller 변환으로 생성한 가우시안 노이즈를 모션과 센싱 양쪽에 주입합니다. 랜드마크 모드에서는 랜드마크까지의 거리가 멀수록 측정 노이즈가 커지고, 거리 센서(RangeFinder) 모드에서는 레이캐스트로 주변 장애물과 랜드마크까지의 거리를 측정합니다. 측정값은 매 스텝 JSON 형태로 TCP를 통해 Python 에이전트에 전달됩니다.
 
-<img width="352" height="270" alt="Image" src="https://github.com/user-attachments/assets/b039fc61-75b1-495f-a4ef-c4229e02351b" />
+<img width="352" height="270" alt="Image" src="https://github.com/user-attachments/assets/b039fc61-75b1-495f-a4ef-c4229e02351b" />. 
+
 ## Components
 
 ### 1. Graph SLAM (`SLAM/`)
